@@ -112,4 +112,16 @@ self.addEventListener("notificationclick", event => {
     if (event.action === "explore") {
         clients.openWindow("https://bazaarteech.com");
     }
-});
+ 
+// 🔹 قياس مدة تنفيذ ميزة معينة
+performance.mark("start-feature");
+
+setTimeout(() => {
+    performance.mark("end-feature");
+    performance.measure("feature-duration", "start-feature", "end-feature");
+
+    const duration = performance.getEntriesByName("feature-duration")[0].duration;
+    console.log("⏱️ مدة تنفيذ الميزة:", duration.toFixed(2), "مللي ثانية");
+}, 2000);
+  });       
+
