@@ -17,6 +17,24 @@ self.addEventListener("install", event => {
     );
 });
 
+self.addEventListener("install", (event) => {
+    console.log("Service Worker installed.");
+    self.skipWaiting();
+});
+
+self.addEventListener("activate", (event) => {
+    console.log("Service Worker activated.");
+});
+
+self.addEventListener("push", (event) => {
+    const options = {
+        body: "Thank you for installing our PWA!",
+        icon: "https://your-logo-url.com/logo.png",
+        vibrate: [200, 100, 200],
+    };
+    event.waitUntil(self.registration.showNotification("🎉 Welcome!", options));
+});
+
 // 🔹 تفعيل الـ Service Worker وحذف الكاش القديم
 self.addEventListener("activate", event => {
     event.waitUntil(
