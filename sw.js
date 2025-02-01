@@ -1,5 +1,5 @@
 const CACHE_NAME = "turkify-cache-v1";
-const OFFLINE_PAGE = "/offline.html";
+const OFFLINE_PAGE = "https://turkifyy.blogspot.com/2025/01/test59.html";
 const ASSETS_TO_CACHE = [
     "/",
     OFFLINE_PAGE,
