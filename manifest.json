@@ -31,10 +31,19 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "splash_screens": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqnjsZiOc7nyrQpiqzalKaiHc2edfhARsMhMMimL1k0emlkWeW7fw26XGTCswyBVGLw2-kRjCN3JRHm4PWwSKhyqIEFS5aXhjljW2eWIQ_OePjBxJ_XUCtbaed3k1c_hFytGtM77h-ZqtGI09W8WRH-StnLbeFAjWTb2DnWUboGABD_6q4-0PNmMd0Vok/s1136/Splashscreen-640%C3%971136%20.png",
+      "sizes": "640x1136"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZrS2I_p0EpPT4emF5cuDJjohbdsE8Q9WZzlcM-guUW1TLMchcrgzg-T7LZKnUp2SmShrElhFKGw9Jul4go1UOc2Q6gpkbmS4XrfTNkUVQXKXyg-yLn-I-23f9je-W_DPizLhuP-U6cwbXJf_Yw5ULGHIQ6Z7Ul0yCu-ALOTXKVQzXV1TjUwbX7V904EM/s1334/Splashscreen-750x1334.png",
+      "sizes": "750x1334"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOZp09yY8YQEej-LDgMK1uU_w54vaP1pKxAomoXxkuGgWKbBMX7nhX_NnbHHqBwCWTWgXrlppHTH-xjN4EFVRT4Tq3buliq40lbWTGtxwa027e_yCSIzeBR9fcnvvQyjH0wnJuxziON0IX34qedFch4iTrjwg2r_a5RXyADcNBUiE8azI_2D0qltsFB8/s2436/Splashscreen-1125%C3%972436%20.png",
+      "sizes": "1125x2436"
+    }
   ]
-     "splash_screens": [
-    { "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqnjsZiOc7nyrQpiqzalKaiHc2edfhARsMhMMimL1k0emlkWeW7fw26XGTCswyBVGLw2-kRjCN3JRHm4PWwSKhyqIEFS5aXhjljW2eWIQ_OePjBxJ_XUCtbaed3k1c_hFytGtM77h-ZqtGI09W8WRH-StnLbeFAjWTb2DnWUboGABD_6q4-0PNmMd0Vok/s1136/Splashscreen-640%C3%971136%20.png", "sizes": "640x1136" },
-    { "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZrS2I_p0EpPT4emF5cuDJjohbdsE8Q9WZzlcM-guUW1TLMchcrgzg-T7LZKnUp2SmShrElhFKGw9Jul4go1UOc2Q6gpkbmS4XrfTNkUVQXKXyg-yLn-I-23f9je-W_DPizLhuP-U6cwbXJf_Yw5ULGHIQ6Z7Ul0yCu-ALOTXKVQzXV1TjUwbX7V904EM/s1334/Splashscreen-750x1334.png", "sizes": "750x1334" },
-    { "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOZp09yY8YQEej-LDgMK1uU_w54vaP1pKxAomoXxkuGgWKbBMX7nhX_NnbHHqBwCWTWgXrlppHTH-xjN4EFVRT4Tq3buliq40lbWTGtxwa027e_yCSIzeBR9fcnvvQyjH0wnJuxziON0IX34qedFch4iTrjwg2r_a5RXyADcNBUiE8azI_2D0qltsFB8/s2436/Splashscreen-1125%C3%972436%20.png", "sizes": "1125x2436" }
-    ]
 }
