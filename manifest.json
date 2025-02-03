@@ -1,34 +1,19 @@
 {
-  "manifest_version": 2,
   "name": "Turkify",
   "short_name": "Turkify",
-  "description": "Enjoy the best experience watching and downloading series and movies in high quality with Arabic subtitles, directly from your phone or tablet.",
-  "version": "1.0.0",
+  "description": "Egybest: Enjoy the best experience watching and downloading series and movies in high quality with Arabic subtitles, directly from your phone or tablet.",
   "start_url": "https://turkifyy.blogspot.com/2025/02/test81.html",
   "scope": "https://turkifyy.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff4747",
   "orientation": "any",
-  "lang": "ar",
+  "lang": "en",
   "dir": "rtl",
-  "categories": ["entertainment", "media"],
-  "screenshots": [
-    {
-      "src": "screenshot1.png",
-      "sizes": "1080x1920",
-      "type": "image/png"
-    }
-  ],
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIi5EvZy5tdpJGdNj2wve_6RJrv0rQWtwIeITvq-9NmO08KteLhV8gJFIZhZ18dKiRuu80CmQYQN6R1pu9YC8DU1pw6jeXxWrh2DdjzEFg0Ug5MkIiwRg6z7xpY5P6MDkm8uibtTnnV2cw9zFH_vpACFcbyNbXOcka_4N_rp1DwQvF3Z2UufP2cbtiKpM/s512/logo-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIi5EvZy5tdpJGdNj2wve_6RJrv0rQWtwIeITvq-9NmO08KteLhV8gJFIZhZ18dKiRuu80CmQYQN6R1pu9YC8DU1pw6jeXxWrh2DdjzEFg0Ug5MkIiwRg6z7xpY5P6MDkm8uibtTnnV2cw9zFH_vpACFcbyNbXOcka_4N_rp1DwQvF3Z2UufP2cbtiKpM/s192/logo-512x512.png",
-      "sizes": "192x192",
       "type": "image/png"
     }
   ],
@@ -45,13 +30,5 @@
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOZp09yY8YQEej-LDgMK1uU_w54vaP1pKxAomoXxkuGgWKbBMX7nhX_NnbHHqBwCWTWgXrlppHTH-xjN4EFVRT4Tq3buliq40lbWTGtxwa027e_yCSIzeBR9fcnvvQyjH0wnJuxziON0IX34qedFch4iTrjwg2r_a5RXyADcNBUiE8azI_2D0qltsFB8/s2436/Splashscreen-1125%C3%972436%20.png",
       "sizes": "1125x2436"
     }
-  ],
-  "related_applications": [
-    {
-      "platform": "web",
-      "url": "https://turkifyy.blogspot.com/",
-      "id": "com.turkify.web"
-    }
-  ],
-  "prefer_related_applications": false
+  ]
 }
